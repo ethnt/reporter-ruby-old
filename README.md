@@ -18,7 +18,7 @@ And then execute:
 require 'reporter'
 
 reporter = Reporter::Client.new(Dir.glob('/Users/ethan/Dropbox/Apps/Reporter-App/*-export.json'))
-reporter.snapshots # => [ #<Reporter::Snapshot>, #<Reporter::Snapshot>]
+reporter.snapshots # => [ #<Reporter::Snapshot>, #<Reporter::Snapshot> ]
 
 reporter.snapshots.first.battery # => 0.95
 
@@ -29,7 +29,7 @@ response.first.tokens # => [ "Eating" ]
 
 ## Contributing
 
-1. Fork it ( https://github.com/eturk/reporter/fork )
+1. Fork it (https://github.com/eturk/reporter/fork)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
