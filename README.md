@@ -14,6 +14,8 @@ And then execute:
 
 ## Usage
 
+Currently, you can read the snapshots from the JSON exports.
+
 ```ruby
 require 'reporter'
 
@@ -25,6 +27,12 @@ reporter.snapshots.first.battery # => 0.95
 response = reporter.snapshots.first.responses # => [ #<Reporter::Response>, #<Reporter::Response> ]
 response.first.questionPrompt # => "What are you doing?"
 response.first.tokens # => [ "Eating" ]
+```
+
+In the future, you'll be able to query for results for certain criteria.
+
+```ruby
+reporter.responses.where(questionPrompt: 'What are you doing?') # => [ #<Reporter::Response>, #<Reporter::Response> ]
 ```
 
 ## Contributing
