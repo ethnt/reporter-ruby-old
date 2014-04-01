@@ -1,0 +1,1353 @@
+{
+  "snapshots" : [
+    {
+      "battery" : 0.6,
+      "location" : {
+        "verticalAccuracy" : 4,
+        "timestamp" : "2014-03-31T00:19:00-0400",
+        "longitude" : -73.93452127471001,
+        "latitude" : 41.72104637608092,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "North Rd",
+          "postalCode" : "12601",
+          "subAdministrativeArea" : "Dutchess",
+          "subLocality" : "Poughkeepsie town",
+          "subThoroughfare" : "290",
+          "locality" : "Poughkeepsie",
+          "name" : "Marist College",
+          "country" : "United States",
+          "administrativeArea" : "NY"
+        },
+        "horizontalAccuracy" : 10,
+        "speed" : 0
+      },
+      "reportImpetus" : 2,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -14.35539,
+        "peak" : -2.658485
+      },
+      "sectionIdentifier" : "1-2014-3-31",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 6,
+        "windDirection" : "NW",
+        "tempF" : 37.4,
+        "precipTodayIn" : 0.93,
+        "windGustKPH" : 11.3,
+        "feelslikeC" : 0,
+        "visibilityMi" : 10,
+        "feelslikeF" : 33,
+        "stationID" : "KNYPOUGH12",
+        "latitude" : 41.72855,
+        "windGustMPH" : 7,
+        "pressureIn" : 29.71,
+        "pressureMb" : 1006,
+        "relativeHumidity" : "87%",
+        "longitude" : -73.910583,
+        "precipTodayMetric" : 24,
+        "windKPH" : 9.699999999999999,
+        "windDegrees" : 316,
+        "tempC" : 3,
+        "weather" : "Overcast",
+        "uv" : 0,
+        "dewpointC" : 1,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2014-03-31T00:18:59-0400",
+      "responses" : [
+        {
+          "questionPrompt" : "Are you in a class?",
+          "answeredOptions" : [
+            "No"
+          ]
+        },
+        {
+          "questionPrompt" : "What is the last app that was open?",
+          "tokens" : [
+            "Facebook"
+          ]
+        },
+        {
+          "questionPrompt" : "What's your current mood?",
+          "answeredOptions" : [
+            "Tired",
+            "Neutral"
+          ]
+        },
+        {
+          "questionPrompt" : "How tired are you?",
+          "answeredOptions" : [
+            "Tired"
+          ]
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "No"
+          ]
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Hanging out",
+            "Eating"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Marian Hall",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : "2014-02-06T10:25:36-0400",
+              "longitude" : -73.93426281362592,
+              "latitude" : 41.72102518746423,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4c8711efd8086dcbc4959f52"
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            "Katherine Janiszewski 🌹",
+            "Cristina Drimbarean 🐺",
+            "Sam Walker 🐺"
+          ]
+        }
+      ]
+    },
+    {
+      "battery" : 0.5,
+      "location" : {
+        "verticalAccuracy" : 10,
+        "timestamp" : "2014-03-31T00:38:28-0400",
+        "longitude" : -73.9357477998995,
+        "latitude" : 41.71910821535016,
+        "course" : 0,
+        "placemark" : {
+          "postalCode" : "12601",
+          "subAdministrativeArea" : "Dutchess",
+          "subLocality" : "Poughkeepsie town",
+          "region" : "<+41.72029500,-73.93439150> radius 846.45",
+          "locality" : "Poughkeepsie",
+          "name" : "Marist College",
+          "country" : "United States",
+          "administrativeArea" : "NY"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 3,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -42.80241,
+        "peak" : -21.96864
+      },
+      "sectionIdentifier" : "1-2014-3-31",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 6,
+        "windDirection" : "NW",
+        "tempF" : 37.4,
+        "precipTodayIn" : 0.93,
+        "windGustKPH" : 11.3,
+        "feelslikeC" : 0,
+        "visibilityMi" : 10,
+        "feelslikeF" : 33,
+        "stationID" : "KNYPOUGH12",
+        "latitude" : 41.72855,
+        "windGustMPH" : 7,
+        "pressureIn" : 29.71,
+        "pressureMb" : 1006,
+        "relativeHumidity" : "87%",
+        "longitude" : -73.910583,
+        "precipTodayMetric" : 24,
+        "windKPH" : 9.699999999999999,
+        "windDegrees" : 316,
+        "tempC" : 3,
+        "weather" : "Overcast",
+        "uv" : 0,
+        "dewpointC" : 1,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2014-03-31T00:38:27-0400",
+      "responses" : [
+        {
+          "questionPrompt" : "Did you do homework today?",
+          "answeredOptions" : [
+            "Yes"
+          ]
+        },
+        {
+          "questionPrompt" : "How were relations with Katherine?",
+          "answeredOptions" : [
+            "Great"
+          ]
+        },
+        {
+          "questionPrompt" : "Did you run or workout today?",
+          "answeredOptions" : [
+            "No"
+          ]
+        },
+        {
+          "numericResponse" : "91",
+          "questionPrompt" : "How were relations with Katherine? (Number)"
+        },
+        {
+          "questionPrompt" : "Have you had sex today?",
+          "answeredOptions" : [
+            "Yes"
+          ]
+        },
+        {
+          "questionPrompt" : "What's your current mood?",
+          "answeredOptions" : [
+            "Tired",
+            "Content"
+          ]
+        },
+        {
+          "numericResponse" : "2.9",
+          "questionPrompt" : "How many hours did you work today?"
+        },
+        {
+          "questionPrompt" : "How tired are you?",
+          "answeredOptions" : [
+            "Tired"
+          ]
+        }
+      ]
+    },
+    {
+      "battery" : 1,
+      "location" : {
+        "verticalAccuracy" : 4,
+        "timestamp" : "2014-03-31T09:05:30-0400",
+        "longitude" : -73.93577671616704,
+        "latitude" : 41.71921107456248,
+        "course" : 0,
+        "placemark" : {
+          "postalCode" : "12601",
+          "subAdministrativeArea" : "Dutchess",
+          "subLocality" : "Poughkeepsie town",
+          "region" : "<+41.72029500,-73.93439150> radius 846.45",
+          "locality" : "Poughkeepsie",
+          "name" : "Marist College",
+          "country" : "United States",
+          "administrativeArea" : "NY"
+        },
+        "horizontalAccuracy" : 30,
+        "speed" : 0
+      },
+      "reportImpetus" : 4,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -64.65372,
+        "peak" : -54.55034
+      },
+      "photoSet" : {
+        "photos" : [
+          {
+            "brightnessValue" : 0,
+            "meteringMode" : 0,
+            "focalLengthIn35mm" : 0,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 0,
+            "assetUrl" : "assets-library:\/\/asset\/asset.PNG?id=C8704D1D-7E80-451F-A078-610A698F7C03&ext=PNG",
+            "isoSpeed" : 0,
+            "exposureTime" : 0,
+            "shutterSpeed" : 0,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 0,
+            "sensingMode" : 0,
+            "longitude" : 0,
+            "apertureValue" : 0,
+            "focalLength" : 0,
+            "altitude" : 0,
+            "exposureProgram" : 0,
+            "pixelWidth" : 500,
+            "dateTime" : "2014-03-31T01:47:07-0400",
+            "flash" : 0,
+            "pixelHeight" : 750,
+            "whiteBalance" : 0
+          },
+          {
+            "sceneCaptureType" : 0,
+            "pixelHeight" : 750,
+            "altitude" : 0,
+            "longitude" : 0,
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=A68677DB-BB4E-41B7-AC43-558253EF94F5&ext=JPG",
+            "latitude" : 0,
+            "depth" : 8,
+            "dateTime" : "2014-03-31T01:51:13-0400",
+            "pixelWidth" : 500,
+            "resolutionUnit" : 2,
+            "orientation" : 1
+          },
+          {
+            "sceneCaptureType" : 0,
+            "pixelHeight" : 667,
+            "altitude" : 0,
+            "longitude" : 0,
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=141B2142-1D79-4660-937E-6CBEEC3300B3&ext=JPG",
+            "latitude" : 0,
+            "depth" : 8,
+            "dateTime" : "2014-03-31T01:46:18-0400",
+            "pixelWidth" : 500,
+            "resolutionUnit" : 2,
+            "orientation" : 1
+          },
+          {
+            "sceneCaptureType" : 0,
+            "pixelHeight" : 745,
+            "altitude" : 0,
+            "longitude" : 0,
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=34290D46-430E-49B2-B2F0-D327EB4AD383&ext=JPG",
+            "latitude" : 0,
+            "depth" : 8,
+            "dateTime" : "2014-03-31T01:47:51-0400",
+            "pixelWidth" : 500,
+            "resolutionUnit" : 2,
+            "orientation" : 1
+          },
+          {
+            "sceneCaptureType" : 0,
+            "pixelHeight" : 750,
+            "altitude" : 0,
+            "longitude" : 0,
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=3C623AC9-FF57-42E5-BD2A-213BA1CFCDAF&ext=JPG",
+            "latitude" : 0,
+            "depth" : 8,
+            "dateTime" : "2014-03-31T01:46:27-0400",
+            "pixelWidth" : 500,
+            "resolutionUnit" : 2,
+            "orientation" : 1
+          },
+          {
+            "sceneCaptureType" : 0,
+            "pixelHeight" : 750,
+            "altitude" : 0,
+            "longitude" : 0,
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=88752BA1-46D3-4174-AEAB-3EE4725B5E5A&ext=JPG",
+            "latitude" : 0,
+            "depth" : 8,
+            "dateTime" : "2014-03-31T01:44:04-0400",
+            "pixelWidth" : 500,
+            "resolutionUnit" : 2,
+            "orientation" : 1
+          },
+          {
+            "sceneCaptureType" : 0,
+            "pixelHeight" : 750,
+            "altitude" : 0,
+            "longitude" : 0,
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=D603AE47-542A-4B07-ADBC-B38DC303CF68&ext=JPG",
+            "latitude" : 0,
+            "depth" : 8,
+            "dateTime" : "2014-03-31T01:46:15-0400",
+            "pixelWidth" : 500,
+            "resolutionUnit" : 2,
+            "orientation" : 1
+          },
+          {
+            "sceneCaptureType" : 0,
+            "pixelHeight" : 750,
+            "altitude" : 0,
+            "longitude" : 0,
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=C0FB6822-80B1-47EB-B21C-1C20425F21A0&ext=JPG",
+            "latitude" : 0,
+            "depth" : 8,
+            "dateTime" : "2014-03-31T01:47:20-0400",
+            "pixelWidth" : 500,
+            "resolutionUnit" : 2,
+            "orientation" : 1
+          },
+          {
+            "sceneCaptureType" : 0,
+            "pixelHeight" : 744,
+            "altitude" : 0,
+            "longitude" : 0,
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=349ECB7E-3BF3-47EA-B517-43DDC615A60C&ext=JPG",
+            "latitude" : 0,
+            "depth" : 8,
+            "dateTime" : "2014-03-31T01:44:02-0400",
+            "pixelWidth" : 500,
+            "resolutionUnit" : 2,
+            "orientation" : 1
+          },
+          {
+            "sceneCaptureType" : 0,
+            "pixelHeight" : 750,
+            "altitude" : 0,
+            "longitude" : 0,
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=4ACD5A61-2426-4104-808F-80094F8FEFF3&ext=JPG",
+            "latitude" : 0,
+            "depth" : 8,
+            "dateTime" : "2014-03-31T01:48:17-0400",
+            "pixelWidth" : 500,
+            "resolutionUnit" : 2,
+            "orientation" : 1
+          },
+          {
+            "brightnessValue" : 0,
+            "meteringMode" : 0,
+            "focalLengthIn35mm" : 0,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 0,
+            "assetUrl" : "assets-library:\/\/asset\/asset.PNG?id=41105C0C-D700-4CBE-9CC4-275047C10B03&ext=PNG",
+            "isoSpeed" : 0,
+            "exposureTime" : 0,
+            "shutterSpeed" : 0,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 0,
+            "sensingMode" : 0,
+            "longitude" : 0,
+            "apertureValue" : 0,
+            "focalLength" : 0,
+            "altitude" : 0,
+            "exposureProgram" : 0,
+            "pixelWidth" : 500,
+            "dateTime" : "2014-03-31T01:53:13-0400",
+            "flash" : 0,
+            "pixelHeight" : 750,
+            "whiteBalance" : 0
+          },
+          {
+            "sceneCaptureType" : 0,
+            "pixelHeight" : 745,
+            "altitude" : 0,
+            "longitude" : 0,
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=BCE5B8EE-34D4-4B80-94FB-9951A6D86A49&ext=JPG",
+            "latitude" : 0,
+            "depth" : 8,
+            "dateTime" : "2014-03-31T01:48:03-0400",
+            "pixelWidth" : 500,
+            "resolutionUnit" : 2,
+            "orientation" : 1
+          },
+          {
+            "brightnessValue" : 0,
+            "meteringMode" : 0,
+            "focalLengthIn35mm" : 0,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 0,
+            "assetUrl" : "assets-library:\/\/asset\/asset.PNG?id=FD274D39-558E-4CE1-B87D-EFB8ED39FCDE&ext=PNG",
+            "isoSpeed" : 0,
+            "exposureTime" : 0,
+            "shutterSpeed" : 0,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 0,
+            "sensingMode" : 0,
+            "longitude" : 0,
+            "apertureValue" : 0,
+            "focalLength" : 0,
+            "altitude" : 0,
+            "exposureProgram" : 0,
+            "pixelWidth" : 500,
+            "dateTime" : "2014-03-31T01:43:40-0400",
+            "flash" : 0,
+            "pixelHeight" : 750,
+            "whiteBalance" : 0
+          },
+          {
+            "sceneCaptureType" : 0,
+            "pixelHeight" : 750,
+            "altitude" : 0,
+            "longitude" : 0,
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=CE65A1A9-D105-4361-B658-28B932FBCADB&ext=JPG",
+            "latitude" : 0,
+            "depth" : 8,
+            "dateTime" : "2014-03-31T01:53:04-0400",
+            "pixelWidth" : 500,
+            "resolutionUnit" : 2,
+            "orientation" : 1
+          }
+        ]
+      },
+      "sectionIdentifier" : "1-2014-3-31",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 6,
+        "windDirection" : "NNW",
+        "tempF" : 36.2,
+        "precipTodayIn" : 0.02,
+        "windGustKPH" : 40.2,
+        "feelslikeC" : 0,
+        "visibilityMi" : 10,
+        "feelslikeF" : 31,
+        "stationID" : "KNYPOUGH12",
+        "latitude" : 41.72855,
+        "windGustMPH" : 25,
+        "pressureIn" : 29.89,
+        "pressureMb" : 1012,
+        "relativeHumidity" : "80%",
+        "longitude" : -73.910583,
+        "precipTodayMetric" : 1,
+        "windKPH" : 9.699999999999999,
+        "windDegrees" : 340,
+        "tempC" : 2.3,
+        "weather" : "Overcast",
+        "uv" : 1,
+        "dewpointC" : -1,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2014-03-31T09:05:29-0400",
+      "responses" : [
+        {
+          "questionPrompt" : "How did you sleep?",
+          "answeredOptions" : [
+            "Poorly"
+          ]
+        },
+        {
+          "numericResponse" : "356",
+          "questionPrompt" : "How many minutes of sleep did you get?"
+        },
+        {
+          "questionPrompt" : "What are you wearing?",
+          "tokens" : [
+            "Nike Killshot 2",
+            "Dark wash J.Crew 484 jeans",
+            "Red Pull & Bear jacket",
+            "Teal J.Crew v-neck t-shirt",
+            "Grey and white striped J.Crew sweater-sweatshirt"
+          ]
+        }
+      ]
+    },
+    {
+      "battery" : 1,
+      "location" : {
+        "verticalAccuracy" : 10,
+        "timestamp" : "2014-03-31T09:15:02-0400",
+        "longitude" : -73.93574966979767,
+        "latitude" : 41.71914246634553,
+        "course" : 0,
+        "placemark" : {
+          "postalCode" : "12601",
+          "subAdministrativeArea" : "Dutchess",
+          "subLocality" : "Poughkeepsie town",
+          "region" : "<+41.72029500,-73.93439150> radius 846.45",
+          "locality" : "Poughkeepsie",
+          "name" : "Marist College",
+          "country" : "United States",
+          "administrativeArea" : "NY"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 2,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -48.09564,
+        "peak" : -36.68946
+      },
+      "photoSet" : {
+        "photos" : [
+          {
+            "sceneCaptureType" : 0,
+            "pixelHeight" : 750,
+            "altitude" : 0,
+            "longitude" : 0,
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=0CCDCB4B-89BF-4D5A-97BE-BE9436EF4D8F&ext=JPG",
+            "latitude" : 0,
+            "depth" : 8,
+            "dateTime" : "2014-03-31T09:14:02-0400",
+            "pixelWidth" : 500,
+            "resolutionUnit" : 2,
+            "orientation" : 1
+          }
+        ]
+      },
+      "sectionIdentifier" : "1-2014-3-31",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 6,
+        "windDirection" : "NNW",
+        "tempF" : 36.2,
+        "precipTodayIn" : 0.02,
+        "windGustKPH" : 40.2,
+        "feelslikeC" : 0,
+        "visibilityMi" : 10,
+        "feelslikeF" : 31,
+        "stationID" : "KNYPOUGH12",
+        "latitude" : 41.72855,
+        "windGustMPH" : 25,
+        "pressureIn" : 29.89,
+        "pressureMb" : 1012,
+        "relativeHumidity" : "80%",
+        "longitude" : -73.910583,
+        "precipTodayMetric" : 1,
+        "windKPH" : 9.699999999999999,
+        "windDegrees" : 340,
+        "tempC" : 2.3,
+        "weather" : "Overcast",
+        "uv" : 1,
+        "dewpointC" : -1,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2014-03-31T09:15:01-0400",
+      "responses" : [
+        {
+          "questionPrompt" : "Are you in a class?",
+          "answeredOptions" : [
+            "No"
+          ]
+        },
+        {
+          "questionPrompt" : "What is the last app that was open?",
+          "tokens" : [
+            "Reeder"
+          ]
+        },
+        {
+          "questionPrompt" : "What's your current mood?",
+          "answeredOptions" : [
+            "Tired",
+            "Content"
+          ]
+        },
+        {
+          "questionPrompt" : "How tired are you?",
+          "answeredOptions" : [
+            "Tired"
+          ]
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "No"
+          ]
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Browsing the Internet"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Sheahan Hall",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : "2014-02-06T11:58:34-0400",
+              "longitude" : -73.93565203274584,
+              "latitude" : 41.71911444605632,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4ca781e244a8224b8f040e40"
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?"
+        }
+      ]
+    },
+    {
+      "battery" : 0.9,
+      "location" : {
+        "verticalAccuracy" : 10,
+        "timestamp" : "2014-03-31T12:08:50-0400",
+        "longitude" : -73.93429457964852,
+        "latitude" : 41.72279712377915,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "North Rd",
+          "postalCode" : "12601",
+          "subAdministrativeArea" : "Dutchess",
+          "subLocality" : "Poughkeepsie town",
+          "subThoroughfare" : "290",
+          "locality" : "Poughkeepsie",
+          "name" : "Marist College",
+          "country" : "United States",
+          "administrativeArea" : "NY"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 2,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -33.35291,
+        "peak" : -27.03104
+      },
+      "sectionIdentifier" : "1-2014-3-31",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 8,
+        "windDirection" : "NE",
+        "tempF" : 42.3,
+        "precipTodayIn" : 0.02,
+        "windGustKPH" : 40.2,
+        "feelslikeC" : 3,
+        "visibilityMi" : 10,
+        "feelslikeF" : 37,
+        "stationID" : "KNYPOUGH12",
+        "latitude" : 41.72855,
+        "windGustMPH" : 25,
+        "pressureIn" : 29.93,
+        "pressureMb" : 1013,
+        "relativeHumidity" : "70%",
+        "longitude" : -73.910583,
+        "precipTodayMetric" : 1,
+        "windKPH" : 12.9,
+        "windDegrees" : 51,
+        "tempC" : 5.7,
+        "weather" : "Scattered Clouds",
+        "uv" : 6,
+        "dewpointC" : 1,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2014-03-31T12:08:50-0400",
+      "responses" : [
+        {
+          "questionPrompt" : "Are you in a class?",
+          "answeredOptions" : [
+            "Yes"
+          ]
+        },
+        {
+          "questionPrompt" : "What is the last app that was open?",
+          "tokens" : [
+            "Messages"
+          ]
+        },
+        {
+          "questionPrompt" : "What's your current mood?",
+          "answeredOptions" : [
+            "Tired",
+            "Content"
+          ]
+        },
+        {
+          "questionPrompt" : "How tired are you?",
+          "answeredOptions" : [
+            "A little tired"
+          ]
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "No"
+          ]
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "In class"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Hancock Center",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : "2014-02-06T18:23:39-0400",
+              "longitude" : -73.93432021957184,
+              "latitude" : 41.7228251540234,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4c250070b7b8a59325753de8"
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            "Nick Titolo 🐺",
+            "Matt Maffa 🐺",
+            "Harris Nagle 🐺",
+            "Sacha Castellani 🐺",
+            "Kevin Lynch 🐺"
+          ]
+        }
+      ]
+    },
+    {
+      "battery" : 0.9,
+      "location" : {
+        "verticalAccuracy" : 10,
+        "timestamp" : "2014-03-31T14:14:54-0400",
+        "longitude" : -73.93567255392996,
+        "latitude" : 41.71912444887682,
+        "course" : 0,
+        "placemark" : {
+          "postalCode" : "12601",
+          "subAdministrativeArea" : "Dutchess",
+          "subLocality" : "Poughkeepsie town",
+          "region" : "<+41.72029500,-73.93439150> radius 846.45",
+          "locality" : "Poughkeepsie",
+          "name" : "Marist College",
+          "country" : "United States",
+          "administrativeArea" : "NY"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 2,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -45.50961,
+        "peak" : -21.05237
+      },
+      "photoSet" : {
+        "photos" : [
+          {
+            "brightnessValue" : 0,
+            "meteringMode" : 0,
+            "focalLengthIn35mm" : 0,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 0,
+            "assetUrl" : "assets-library:\/\/asset\/asset.PNG?id=DD404C07-B60B-4507-9341-8EBDAFAFAB2D&ext=PNG",
+            "isoSpeed" : 0,
+            "exposureTime" : 0,
+            "shutterSpeed" : 0,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 0,
+            "sensingMode" : 0,
+            "longitude" : 0,
+            "apertureValue" : 0,
+            "focalLength" : 0,
+            "altitude" : 0,
+            "exposureProgram" : 0,
+            "pixelWidth" : 500,
+            "dateTime" : "2014-03-31T12:19:56-0400",
+            "flash" : 0,
+            "pixelHeight" : 750,
+            "whiteBalance" : 0
+          },
+          {
+            "meteringMode" : 5,
+            "brightnessValue" : 1.415591,
+            "focalLengthIn35mm" : 75,
+            "longitudeRef" : "W",
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "7.1",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=547F180B-B58E-4C7D-84F6-8720D9DF043E&ext=JPG",
+            "isoSpeed" : 250,
+            "exposureTime" : 0.05,
+            "shutterSpeed" : 4.321957,
+            "depth" : 8,
+            "latitude" : 41.72106,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "longitude" : 73.93444,
+            "apertureValue" : 2.526069,
+            "latitudeRef" : "N",
+            "focalLength" : 4.12,
+            "altitude" : 32.71493,
+            "exposureProgram" : 2,
+            "model" : "iPhone 5",
+            "dateTime" : "2014-03-31T13:25:01-0400",
+            "pixelWidth" : 3264,
+            "flash" : 16,
+            "orientation" : 6,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          }
+        ]
+      },
+      "sectionIdentifier" : "1-2014-3-31",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 7,
+        "windDirection" : "North",
+        "tempF" : 47.5,
+        "precipTodayIn" : 0.02,
+        "windGustKPH" : 19.3,
+        "feelslikeC" : 7,
+        "visibilityMi" : 10,
+        "feelslikeF" : 44,
+        "stationID" : "KNYPOUGH12",
+        "latitude" : 41.72855,
+        "windGustMPH" : 12,
+        "pressureIn" : 29.92,
+        "pressureMb" : 1013,
+        "relativeHumidity" : "62%",
+        "longitude" : -73.910583,
+        "precipTodayMetric" : 1,
+        "windKPH" : 11.3,
+        "windDegrees" : 6,
+        "tempC" : 8.6,
+        "weather" : "Clear",
+        "uv" : 8,
+        "dewpointC" : 2,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2014-03-31T14:14:53-0400",
+      "responses" : [
+        {
+          "questionPrompt" : "Are you in a class?",
+          "answeredOptions" : [
+            "No"
+          ]
+        },
+        {
+          "questionPrompt" : "What is the last app that was open?",
+          "tokens" : [
+            "Rdio"
+          ]
+        },
+        {
+          "questionPrompt" : "What's your current mood?",
+          "answeredOptions" : [
+            "Anxious",
+            "Tired",
+            "Content"
+          ]
+        },
+        {
+          "questionPrompt" : "How tired are you?",
+          "answeredOptions" : [
+            "A little tired"
+          ]
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "Yes"
+          ]
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Watching television",
+            "Working"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Sheahan Hall",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : "2014-02-06T11:58:34-0400",
+              "longitude" : -73.93565203274584,
+              "latitude" : 41.71911444605632,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4ca781e244a8224b8f040e40"
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            "Aaron Gaberman 🐺"
+          ]
+        }
+      ]
+    },
+    {
+      "battery" : 0.95,
+      "location" : {
+        "verticalAccuracy" : 10,
+        "timestamp" : "2014-03-31T14:33:50-0400",
+        "longitude" : -73.93568108456279,
+        "latitude" : 41.71915622140296,
+        "course" : 0,
+        "placemark" : {
+          "postalCode" : "12601",
+          "subAdministrativeArea" : "Dutchess",
+          "subLocality" : "Poughkeepsie town",
+          "region" : "<+41.72029500,-73.93439150> radius 846.45",
+          "locality" : "Poughkeepsie",
+          "name" : "Marist College",
+          "country" : "United States",
+          "administrativeArea" : "NY"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 2,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -39.7196,
+        "peak" : -29.21757
+      },
+      "sectionIdentifier" : "1-2014-3-31",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 7,
+        "windDirection" : "North",
+        "tempF" : 47.5,
+        "precipTodayIn" : 0.02,
+        "windGustKPH" : 19.3,
+        "feelslikeC" : 7,
+        "visibilityMi" : 10,
+        "feelslikeF" : 44,
+        "stationID" : "KNYPOUGH12",
+        "latitude" : 41.72855,
+        "windGustMPH" : 12,
+        "pressureIn" : 29.92,
+        "pressureMb" : 1013,
+        "relativeHumidity" : "62%",
+        "longitude" : -73.910583,
+        "precipTodayMetric" : 1,
+        "windKPH" : 11.3,
+        "windDegrees" : 6,
+        "tempC" : 8.6,
+        "weather" : "Clear",
+        "uv" : 8,
+        "dewpointC" : 2,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2014-03-31T14:33:49-0400",
+      "responses" : [
+        {
+          "questionPrompt" : "Are you in a class?",
+          "answeredOptions" : [
+            "No"
+          ]
+        },
+        {
+          "questionPrompt" : "What is the last app that was open?",
+          "tokens" : [
+            "Rdio"
+          ]
+        },
+        {
+          "questionPrompt" : "What's your current mood?",
+          "answeredOptions" : [
+            "Anxious",
+            "Tired",
+            "Content"
+          ]
+        },
+        {
+          "questionPrompt" : "How tired are you?",
+          "answeredOptions" : [
+            "A little tired"
+          ]
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "Yes"
+          ]
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Watching television",
+            "Working"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Sheahan Hall",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : "2014-02-06T11:58:34-0400",
+              "longitude" : -73.93565203274584,
+              "latitude" : 41.71911444605632,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4ca781e244a8224b8f040e40"
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            "Aaron Gaberman 🐺"
+          ]
+        }
+      ]
+    },
+    {
+      "battery" : 0.6,
+      "location" : {
+        "verticalAccuracy" : 10,
+        "timestamp" : "2014-03-31T18:10:45-0400",
+        "longitude" : -73.93570383300825,
+        "latitude" : 41.72078848218395,
+        "course" : 0,
+        "placemark" : {
+          "postalCode" : "12601",
+          "subAdministrativeArea" : "Dutchess",
+          "subLocality" : "Poughkeepsie town",
+          "region" : "<+41.72029500,-73.93439150> radius 846.45",
+          "locality" : "Poughkeepsie",
+          "name" : "Marist College",
+          "country" : "United States",
+          "administrativeArea" : "NY"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 2,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -20.66309,
+        "peak" : 0
+      },
+      "sectionIdentifier" : "1-2014-3-31",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 6,
+        "windDirection" : "NNE",
+        "tempF" : 48.1,
+        "precipTodayIn" : 0.02,
+        "windGustKPH" : 9.699999999999999,
+        "feelslikeC" : 7,
+        "visibilityMi" : 10,
+        "feelslikeF" : 45,
+        "stationID" : "KNYPOUGH12",
+        "latitude" : 41.72855,
+        "windGustMPH" : 6,
+        "pressureIn" : 29.95,
+        "pressureMb" : 1014,
+        "relativeHumidity" : "57%",
+        "longitude" : -73.910583,
+        "precipTodayMetric" : 1,
+        "windKPH" : 9.699999999999999,
+        "windDegrees" : 29,
+        "tempC" : 8.9,
+        "weather" : "Clear",
+        "uv" : 1,
+        "dewpointC" : 1,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2014-03-31T18:10:44-0400",
+      "responses" : [
+        {
+          "questionPrompt" : "Are you in a class?",
+          "answeredOptions" : [
+            "No"
+          ]
+        },
+        {
+          "questionPrompt" : "What is the last app that was open?",
+          "tokens" : [
+            "Tweetbot"
+          ]
+        },
+        {
+          "questionPrompt" : "What's your current mood?",
+          "answeredOptions" : [
+            "Tired",
+            "Bored"
+          ]
+        },
+        {
+          "questionPrompt" : "How tired are you?",
+          "answeredOptions" : [
+            "Tired"
+          ]
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "No"
+          ]
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Eating"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Dining Hall",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : "2014-02-06T10:25:36-0400",
+              "longitude" : -73.93560647964478,
+              "latitude" : 41.72087334801921,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4baba97ff964a520f5bd3ae3"
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            "Katherine Janiszewski 🌹",
+            "Cristina Drimbarean 🐺",
+            "Heather Strein 🐺"
+          ]
+        }
+      ]
+    },
+    {
+      "battery" : 0.6,
+      "location" : {
+        "verticalAccuracy" : 10,
+        "timestamp" : "2014-03-31T18:52:37-0400",
+        "longitude" : -73.93576361384221,
+        "latitude" : 41.71912529638527,
+        "course" : 0,
+        "placemark" : {
+          "postalCode" : "12601",
+          "subAdministrativeArea" : "Dutchess",
+          "subLocality" : "Poughkeepsie town",
+          "region" : "<+41.72029500,-73.93439150> radius 846.45",
+          "locality" : "Poughkeepsie",
+          "name" : "Marist College",
+          "country" : "United States",
+          "administrativeArea" : "NY"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 2,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -17.55735,
+        "peak" : -1.553703
+      },
+      "sectionIdentifier" : "1-2014-3-31",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 6,
+        "windDirection" : "NNE",
+        "tempF" : 48.1,
+        "precipTodayIn" : 0.02,
+        "windGustKPH" : 9.699999999999999,
+        "feelslikeC" : 7,
+        "visibilityMi" : 10,
+        "feelslikeF" : 45,
+        "stationID" : "KNYPOUGH12",
+        "latitude" : 41.72855,
+        "windGustMPH" : 6,
+        "pressureIn" : 29.95,
+        "pressureMb" : 1014,
+        "relativeHumidity" : "57%",
+        "longitude" : -73.910583,
+        "precipTodayMetric" : 1,
+        "windKPH" : 9.699999999999999,
+        "windDegrees" : 29,
+        "tempC" : 8.9,
+        "weather" : "Clear",
+        "uv" : 1,
+        "dewpointC" : 1,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2014-03-31T18:52:37-0400",
+      "responses" : [
+        {
+          "questionPrompt" : "Are you in a class?",
+          "answeredOptions" : [
+            "No"
+          ]
+        },
+        {
+          "questionPrompt" : "What is the last app that was open?",
+          "tokens" : [
+            "Tweetbot"
+          ]
+        },
+        {
+          "questionPrompt" : "What's your current mood?",
+          "answeredOptions" : [
+            "Tired",
+            "Neutral"
+          ]
+        },
+        {
+          "questionPrompt" : "How tired are you?",
+          "answeredOptions" : [
+            "A little tired"
+          ]
+        },
+        {
+          "questionPrompt" : "Are you working?",
+          "answeredOptions" : [
+            "No"
+          ]
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Getting dressed"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Sheahan Hall",
+            "location" : {
+              "verticalAccuracy" : -1,
+              "timestamp" : "2014-02-06T11:58:34-0400",
+              "longitude" : -73.93565203274584,
+              "latitude" : 41.71911444605632,
+              "course" : 0,
+              "horizontalAccuracy" : 0,
+              "speed" : -1
+            },
+            "foursquareVenueId" : "4ca781e244a8224b8f040e40"
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?"
+        }
+      ]
+    }
+  ]
+}
