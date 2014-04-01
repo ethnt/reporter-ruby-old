@@ -6,7 +6,7 @@ This is a RubyGem for reading and modifying [Reporter](http://www.reporter-app.c
 
 Add this line to your application's Gemfile:
 
-    gem 'reporter', github: 'eturk/reporter-ruby'
+    gem 'reporter-ruby', github: 'eturk/reporter-ruby'
 
 And then execute:
 

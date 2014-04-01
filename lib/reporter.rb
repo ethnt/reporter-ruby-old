@@ -3,7 +3,11 @@ require 'hashie'
 
 require 'reporter/version'
 require 'reporter/snapshot'
-require 'reporter/response'
+require 'reporter/node'
+require 'reporter/nodes/audio'
+require 'reporter/nodes/response'
+require 'reporter/nodes/location'
+require 'reporter/nodes/weather'
 
 module Reporter
   class Client
