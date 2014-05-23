@@ -5,8 +5,11 @@ require 'reporter/version'
 require 'reporter/snapshot'
 require 'reporter/node'
 require 'reporter/nodes/audio'
+require 'reporter/nodes/notification'
+require 'reporter/nodes/photo'
 require 'reporter/nodes/response'
 require 'reporter/nodes/location'
+require 'reporter/nodes/location_response'
 require 'reporter/nodes/weather'
 
 module Reporter

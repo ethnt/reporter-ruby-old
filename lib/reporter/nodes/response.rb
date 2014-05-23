@@ -4,7 +4,7 @@ module Reporter
       super(source)
 
       if @locationResponse
-        @locationResponse['location'] = Reporter::Location.new(@locationResponse['location'])
+        @locationResponse = Reporter::LocationResponse.new(@locationResponse)
       end
     end
   end

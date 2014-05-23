@@ -9,6 +9,9 @@ module Reporter
     end
 
     class Placemark < Node
+      def initialize(source)
+        super(super(source))
+      end
     end
   end
 end
