@@ -1,6 +1,6 @@
 # Reporter
 
-This is a RubyGem for reading and modifying [Reporter](http://www.reporter-app.com/) reports and snapshots.
+This is a RubyGem for reading and modifying [Reporter](http://www.reporter-app.com/) reports and snapshots. Based on the [description of Reporter's export data](https://gist.github.com/dbreunig/9315705).
 
 ## Installation
 
