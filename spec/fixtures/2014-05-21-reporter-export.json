@@ -1,0 +1,898 @@
+{
+  "snapshots" : [
+    {
+      "battery" : 1,
+      "location" : {
+        "verticalAccuracy" : 10,
+        "timestamp" : "2014-05-21T09:51:52-0400",
+        "longitude" : -72.89768849332226,
+        "latitude" : 41.73515526208444,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "Woodside Dr",
+          "postalCode" : "06085",
+          "subAdministrativeArea" : "Hartford",
+          "subLocality" : "Farmington",
+          "subThoroughfare" : "18",
+          "locality" : "Unionville",
+          "name" : "18 Woodside Dr",
+          "country" : "United States",
+          "administrativeArea" : "CT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 3,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -35.2709,
+        "peak" : -24.70043
+      },
+      "photoSet" : {
+        "photos" : [
+          {
+            "brightnessValue" : -5.2578,
+            "meteringMode" : 3,
+            "focalLengthIn35mm" : 66,
+            "sceneCaptureType" : 0,
+            "exposureMode" : 0,
+            "resolutionUnit" : 2,
+            "make" : "Apple",
+            "software" : "7.1",
+            "assetUrl" : "assets-library:\/\/asset\/asset.JPG?id=C1F394D8-4273-4A76-AF5D-6148E35CB6CD&ext=JPG",
+            "isoSpeed" : 3200,
+            "exposureTime" : 0.06666667,
+            "shutterSpeed" : 3.906905,
+            "depth" : 8,
+            "latitude" : 0,
+            "fNumber" : 2.4,
+            "sensingMode" : 2,
+            "longitude" : 0,
+            "apertureValue" : 2.526069,
+            "focalLength" : 4.12,
+            "model" : "iPhone 5",
+            "altitude" : 0,
+            "exposureProgram" : 2,
+            "pixelWidth" : 3264,
+            "dateTime" : "2014-05-20T19:31:11-0400",
+            "flash" : 16,
+            "orientation" : 6,
+            "pixelHeight" : 2448,
+            "whiteBalance" : 0
+          }
+        ]
+      },
+      "sectionIdentifier" : "1-2014-5-21",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "NE",
+        "tempF" : 65.5,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 3.2,
+        "feelslikeC" : 18.6,
+        "visibilityMi" : 10,
+        "feelslikeF" : 65.5,
+        "stationID" : "KCTUNION3",
+        "latitude" : 41.748333,
+        "windGustMPH" : 2,
+        "pressureIn" : 30,
+        "pressureMb" : 1016,
+        "relativeHumidity" : "52%",
+        "longitude" : -72.87694500000001,
+        "precipTodayMetric" : 0,
+        "windKPH" : 0,
+        "windDegrees" : 41,
+        "tempC" : 18.6,
+        "weather" : "Clear",
+        "uv" : 4,
+        "dewpointC" : 9,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2014-05-21T09:51:52-0400",
+      "responses" : [
+        {
+          "questionPrompt" : "How were relations with Katherine?",
+          "answeredOptions" : [
+            "Good"
+          ]
+        },
+        {
+          "questionPrompt" : "Did you run or workout today?",
+          "answeredOptions" : [
+            "No"
+          ]
+        },
+        {
+          "questionPrompt" : "What's your current mood?",
+          "answeredOptions" : [
+            "Content"
+          ]
+        },
+        {
+          "questionPrompt" : "Did you see Katherine today?",
+          "answeredOptions" : [
+            "Yes"
+          ]
+        },
+        {
+          "numericResponse" : "3.8",
+          "questionPrompt" : "How many hours did you work today?"
+        },
+        {
+          "numericResponse" : "90",
+          "questionPrompt" : "How were relations with Katherine? (Number)"
+        },
+        {
+          "questionPrompt" : "Have you had sex today?",
+          "answeredOptions" : [
+            "Yes"
+          ]
+        },
+        {
+          "questionPrompt" : "How tired are you?",
+          "answeredOptions" : [
+            "Tired"
+          ]
+        }
+      ]
+    },
+    {
+      "battery" : 1,
+      "location" : {
+        "verticalAccuracy" : 10,
+        "timestamp" : "2014-05-21T09:52:25-0400",
+        "longitude" : -72.8973443959477,
+        "latitude" : 41.73516251331458,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "Woodside Dr",
+          "postalCode" : "06085",
+          "subAdministrativeArea" : "Hartford",
+          "subLocality" : "Farmington",
+          "subThoroughfare" : "16",
+          "locality" : "Unionville",
+          "name" : "16 Woodside Dr",
+          "country" : "United States",
+          "administrativeArea" : "CT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 4,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -43.00269,
+        "peak" : -37.8739
+      },
+      "sectionIdentifier" : "1-2014-5-21",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "NE",
+        "tempF" : 65.5,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 3.2,
+        "feelslikeC" : 18.6,
+        "visibilityMi" : 10,
+        "feelslikeF" : 65.5,
+        "stationID" : "KCTUNION3",
+        "latitude" : 41.748333,
+        "windGustMPH" : 2,
+        "pressureIn" : 30,
+        "pressureMb" : 1016,
+        "relativeHumidity" : "52%",
+        "longitude" : -72.87694500000001,
+        "precipTodayMetric" : 0,
+        "windKPH" : 0,
+        "windDegrees" : 41,
+        "tempC" : 18.6,
+        "weather" : "Clear",
+        "uv" : 4,
+        "dewpointC" : 9,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2014-05-21T09:52:24-0400",
+      "responses" : [
+        {
+          "questionPrompt" : "How did you sleep?",
+          "answeredOptions" : [
+            "Ok"
+          ]
+        },
+        {
+          "questionPrompt" : "What are you wearing?"
+        },
+        {
+          "numericResponse" : "421",
+          "questionPrompt" : "How many minutes of sleep did you get?"
+        }
+      ]
+    },
+    {
+      "battery" : 0.85,
+      "location" : {
+        "verticalAccuracy" : 10,
+        "timestamp" : "2014-05-21T12:24:01-0400",
+        "longitude" : -72.89782154262433,
+        "latitude" : 41.73504182112227,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "Woodside Dr",
+          "postalCode" : "06085",
+          "subAdministrativeArea" : "Hartford",
+          "subLocality" : "Farmington",
+          "subThoroughfare" : "18",
+          "locality" : "Unionville",
+          "name" : "18 Woodside Dr",
+          "country" : "United States",
+          "administrativeArea" : "CT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "firedNotification" : {
+        "missed" : 0,
+        "notificationType" : 0
+      },
+      "reportImpetus" : 2,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -63.03653,
+        "peak" : -49.62509
+      },
+      "sectionIdentifier" : "1-2014-5-21",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 2,
+        "windDirection" : "South",
+        "tempF" : 72.09999999999999,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 6.4,
+        "feelslikeC" : 22.3,
+        "visibilityMi" : 10,
+        "feelslikeF" : 72.09999999999999,
+        "stationID" : "KCTUNION3",
+        "latitude" : 41.748333,
+        "windGustMPH" : 4,
+        "pressureIn" : 29.96,
+        "pressureMb" : 1014,
+        "relativeHumidity" : "40%",
+        "longitude" : -72.87694500000001,
+        "precipTodayMetric" : 0,
+        "windKPH" : 3.2,
+        "windDegrees" : 175,
+        "tempC" : 22.3,
+        "weather" : "Clear",
+        "uv" : 11,
+        "dewpointC" : 8,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2014-05-21T12:23:57-0400",
+      "responses" : [
+        {
+          "questionPrompt" : "What's your current mood?",
+          "answeredOptions" : [
+            "Anxious",
+            "Content"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Home",
+            "location" : {
+              "verticalAccuracy" : 3,
+              "timestamp" : "2014-03-14T16:56:26-0400",
+              "longitude" : -72.89770030423337,
+              "latitude" : 41.73502554655236,
+              "course" : 0,
+              "horizontalAccuracy" : 5,
+              "speed" : 0
+            }
+          }
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Playing video games"
+          ]
+        },
+        {
+          "questionPrompt" : "How tired are you?",
+          "answeredOptions" : [
+            "A little tired"
+          ]
+        },
+        {
+          "questionPrompt" : "Who are you with?"
+        }
+      ]
+    },
+    {
+      "battery" : 0.85,
+      "location" : {
+        "verticalAccuracy" : 3,
+        "timestamp" : "2014-05-21T13:31:56-0400",
+        "longitude" : -72.89771321236425,
+        "latitude" : 41.73503770031196,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "Woodside Dr",
+          "postalCode" : "06085",
+          "subAdministrativeArea" : "Hartford",
+          "subLocality" : "Farmington",
+          "subThoroughfare" : "18",
+          "locality" : "Unionville",
+          "name" : "18 Woodside Dr",
+          "country" : "United States",
+          "administrativeArea" : "CT"
+        },
+        "horizontalAccuracy" : 10,
+        "speed" : 0
+      },
+      "firedNotification" : {
+        "missed" : 0,
+        "notificationType" : 0
+      },
+      "reportImpetus" : 2,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -61.01887,
+        "peak" : -44.51988
+      },
+      "sectionIdentifier" : "1-2014-5-21",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 2,
+        "windDirection" : "South",
+        "tempF" : 74.8,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 11.3,
+        "feelslikeC" : 23.8,
+        "visibilityMi" : 10,
+        "feelslikeF" : 74.8,
+        "stationID" : "KCTUNION3",
+        "latitude" : 41.748333,
+        "windGustMPH" : 7,
+        "pressureIn" : 29.93,
+        "pressureMb" : 1014,
+        "relativeHumidity" : "35%",
+        "longitude" : -72.87694500000001,
+        "precipTodayMetric" : 0,
+        "windKPH" : 3.2,
+        "windDegrees" : 180,
+        "tempC" : 23.8,
+        "weather" : "Clear",
+        "uv" : 12,
+        "dewpointC" : 7,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2014-05-21T13:31:54-0400",
+      "responses" : [
+        {
+          "questionPrompt" : "What's your current mood?",
+          "answeredOptions" : [
+            "Anxious",
+            "Neutral"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Home",
+            "location" : {
+              "verticalAccuracy" : 3,
+              "timestamp" : "2014-03-14T16:56:26-0400",
+              "longitude" : -72.89770030423337,
+              "latitude" : 41.73502554655236,
+              "course" : 0,
+              "horizontalAccuracy" : 5,
+              "speed" : 0
+            }
+          }
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Cleaning"
+          ]
+        },
+        {
+          "questionPrompt" : "How tired are you?",
+          "answeredOptions" : [
+            "A little tired"
+          ]
+        },
+        {
+          "questionPrompt" : "Who are you with?"
+        }
+      ]
+    },
+    {
+      "battery" : 0.7,
+      "location" : {
+        "verticalAccuracy" : 10,
+        "timestamp" : "2014-05-21T17:08:39-0400",
+        "longitude" : -72.89791668664647,
+        "latitude" : 41.73500393237515,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "Woodside Dr",
+          "postalCode" : "06085",
+          "subAdministrativeArea" : "Hartford",
+          "subLocality" : "Farmington",
+          "subThoroughfare" : "18",
+          "locality" : "Unionville",
+          "name" : "18 Woodside Dr",
+          "country" : "United States",
+          "administrativeArea" : "CT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -39.27303,
+        "peak" : -36.47371
+      },
+      "sectionIdentifier" : "1-2014-5-21",
+      "sync" : 0,
+      "connection" : 0,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 1,
+        "windDirection" : "SW",
+        "tempF" : 73.59999999999999,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 12.9,
+        "feelslikeC" : 23.1,
+        "visibilityMi" : 10,
+        "feelslikeF" : 73.59999999999999,
+        "stationID" : "KCTUNION3",
+        "latitude" : 41.748333,
+        "windGustMPH" : 8,
+        "pressureIn" : 29.89,
+        "pressureMb" : 1012,
+        "relativeHumidity" : "39%",
+        "longitude" : -72.87694500000001,
+        "precipTodayMetric" : 0,
+        "windKPH" : 1.6,
+        "windDegrees" : 217,
+        "tempC" : 23.1,
+        "weather" : "Partly Cloudy",
+        "uv" : 4,
+        "dewpointC" : 8,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2014-05-21T17:08:31-0400",
+      "responses" : [
+        {
+          "questionPrompt" : "What's your current mood?",
+          "answeredOptions" : [
+            "Anxious",
+            "Content"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Home",
+            "location" : {
+              "verticalAccuracy" : 3,
+              "timestamp" : "2014-03-14T16:56:26-0400",
+              "longitude" : -72.89770030423337,
+              "latitude" : 41.73502554655236,
+              "course" : 0,
+              "horizontalAccuracy" : 5,
+              "speed" : 0
+            }
+          }
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Reading"
+          ]
+        },
+        {
+          "questionPrompt" : "How tired are you?",
+          "answeredOptions" : [
+            "A little tired"
+          ]
+        },
+        {
+          "questionPrompt" : "Who are you with?"
+        }
+      ]
+    },
+    {
+      "battery" : 0.65,
+      "location" : {
+        "verticalAccuracy" : 3,
+        "timestamp" : "2014-05-21T18:41:42-0400",
+        "longitude" : -72.89767926565641,
+        "latitude" : 41.73533043828023,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "Woodside Dr",
+          "postalCode" : "06085",
+          "subAdministrativeArea" : "Hartford",
+          "subLocality" : "Farmington",
+          "subThoroughfare" : "18",
+          "locality" : "Unionville",
+          "name" : "18 Woodside Dr",
+          "country" : "United States",
+          "administrativeArea" : "CT"
+        },
+        "horizontalAccuracy" : 10,
+        "speed" : 0
+      },
+      "reportImpetus" : 0,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -26.55383,
+        "peak" : -22.6968
+      },
+      "sectionIdentifier" : "1-2014-5-21",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "South",
+        "tempF" : 71.2,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 9.699999999999999,
+        "feelslikeC" : 21.8,
+        "visibilityMi" : 10,
+        "feelslikeF" : 71.2,
+        "stationID" : "KCTUNION3",
+        "latitude" : 41.748333,
+        "windGustMPH" : 6,
+        "pressureIn" : 29.9,
+        "pressureMb" : 1012,
+        "relativeHumidity" : "46%",
+        "longitude" : -72.87694500000001,
+        "precipTodayMetric" : 0,
+        "windKPH" : 0,
+        "windDegrees" : 189,
+        "tempC" : 21.8,
+        "weather" : "Clear",
+        "uv" : 2,
+        "dewpointC" : 10,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2014-05-21T18:41:42-0400",
+      "responses" : [
+        {
+          "questionPrompt" : "What's your current mood?",
+          "answeredOptions" : [
+            "Anxious",
+            "Content"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Home",
+            "location" : {
+              "verticalAccuracy" : 3,
+              "timestamp" : "2014-03-14T16:56:26-0400",
+              "longitude" : -72.89770030423337,
+              "latitude" : 41.73502554655236,
+              "course" : 0,
+              "horizontalAccuracy" : 5,
+              "speed" : 0
+            }
+          }
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Taking Harry outside"
+          ]
+        },
+        {
+          "questionPrompt" : "How tired are you?",
+          "answeredOptions" : [
+            "A little tired"
+          ]
+        },
+        {
+          "questionPrompt" : "Who are you with?"
+        }
+      ]
+    },
+    {
+      "battery" : 0.55,
+      "location" : {
+        "verticalAccuracy" : 10,
+        "timestamp" : "2014-05-21T19:44:17-0400",
+        "longitude" : -72.89808283674225,
+        "latitude" : 41.73507510179913,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "Woodside Dr",
+          "postalCode" : "06085",
+          "subAdministrativeArea" : "Hartford",
+          "subLocality" : "Farmington",
+          "subThoroughfare" : "20",
+          "locality" : "Unionville",
+          "name" : "20 Woodside Dr",
+          "country" : "United States",
+          "administrativeArea" : "CT"
+        },
+        "horizontalAccuracy" : 65,
+        "speed" : -1
+      },
+      "firedNotification" : {
+        "missed" : 0,
+        "notificationType" : 0
+      },
+      "reportImpetus" : 2,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -48.69673,
+        "peak" : -20.55887
+      },
+      "sectionIdentifier" : "1-2014-5-21",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "SSW",
+        "tempF" : 68.40000000000001,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 6.4,
+        "feelslikeC" : 20.2,
+        "visibilityMi" : 10,
+        "feelslikeF" : 68.40000000000001,
+        "stationID" : "KCTUNION3",
+        "latitude" : 41.748333,
+        "windGustMPH" : 4,
+        "pressureIn" : 29.9,
+        "pressureMb" : 1012,
+        "relativeHumidity" : "49%",
+        "longitude" : -72.87694500000001,
+        "precipTodayMetric" : 0,
+        "windKPH" : 0,
+        "windDegrees" : 194,
+        "tempC" : 20.2,
+        "weather" : "Clear",
+        "uv" : 1,
+        "dewpointC" : 9,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2014-05-21T19:44:15-0400",
+      "responses" : [
+        {
+          "questionPrompt" : "What's your current mood?",
+          "answeredOptions" : [
+            "Anxious",
+            "Content",
+            "Sick"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Home",
+            "location" : {
+              "verticalAccuracy" : 3,
+              "timestamp" : "2014-03-14T16:56:26-0400",
+              "longitude" : -72.89770030423337,
+              "latitude" : 41.73502554655236,
+              "course" : 0,
+              "horizontalAccuracy" : 5,
+              "speed" : 0
+            }
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            "Mom",
+            "Emily Turkeltaub"
+          ]
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Eating"
+          ]
+        },
+        {
+          "questionPrompt" : "How tired are you?",
+          "answeredOptions" : [
+            "Tired"
+          ]
+        }
+      ]
+    },
+    {
+      "battery" : 0.5,
+      "location" : {
+        "verticalAccuracy" : 10,
+        "timestamp" : "2014-05-21T22:09:43-0400",
+        "longitude" : -72.89789143291294,
+        "latitude" : 41.73511835158573,
+        "course" : 0,
+        "placemark" : {
+          "thoroughfare" : "Woodside Dr",
+          "postalCode" : "06085",
+          "subAdministrativeArea" : "Hartford",
+          "subLocality" : "Farmington",
+          "subThoroughfare" : "18",
+          "locality" : "Unionville",
+          "name" : "18 Woodside Dr",
+          "country" : "United States",
+          "administrativeArea" : "CT"
+        },
+        "horizontalAccuracy" : 66.76688747987747,
+        "speed" : -1
+      },
+      "reportImpetus" : 2,
+      "steps" : -1,
+      "audio" : {
+        "avg" : -73.56588,
+        "peak" : -60.4697
+      },
+      "sectionIdentifier" : "1-2014-5-21",
+      "sync" : 0,
+      "connection" : 1,
+      "background" : 0,
+      "dwellStatus" : 0,
+      "draft" : 0,
+      "weather" : {
+        "windMPH" : 0,
+        "windDirection" : "South",
+        "tempF" : 61.2,
+        "precipTodayIn" : 0,
+        "windGustKPH" : 0,
+        "feelslikeC" : 16.2,
+        "visibilityMi" : 10,
+        "feelslikeF" : 61.2,
+        "stationID" : "KCTUNION3",
+        "latitude" : 41.748333,
+        "windGustMPH" : 0,
+        "pressureIn" : 29.92,
+        "pressureMb" : 1013,
+        "relativeHumidity" : "67%",
+        "longitude" : -72.87694500000001,
+        "precipTodayMetric" : 0,
+        "windKPH" : 0,
+        "windDegrees" : 178,
+        "tempC" : 16.2,
+        "weather" : "Overcast",
+        "uv" : 0,
+        "dewpointC" : 10,
+        "visibilityKM" : 16.1
+      },
+      "date" : "2014-05-21T22:09:39-0400",
+      "responses" : [
+        {
+          "questionPrompt" : "What's your current mood?",
+          "answeredOptions" : [
+            "Sick",
+            "Anxious",
+            "Neutral"
+          ]
+        },
+        {
+          "questionPrompt" : "Where are you?",
+          "locationResponse" : {
+            "text" : "Home",
+            "location" : {
+              "verticalAccuracy" : 3,
+              "timestamp" : "2014-03-14T16:56:26-0400",
+              "longitude" : -72.89770030423337,
+              "latitude" : 41.73502554655236,
+              "course" : 0,
+              "horizontalAccuracy" : 5,
+              "speed" : 0
+            }
+          }
+        },
+        {
+          "questionPrompt" : "Who are you with?",
+          "tokens" : [
+            "Mom"
+          ]
+        },
+        {
+          "questionPrompt" : "What are you doing?",
+          "tokens" : [
+            "Browsing the Internet",
+            "Working"
+          ]
+        },
+        {
+          "questionPrompt" : "How tired are you?",
+          "answeredOptions" : [
+            "Tired"
+          ]
+        }
+      ]
+    }
+  ],
+  "questions" : [
+    {
+      "prompt" : "Where are you?"
+    },
+    {
+      "prompt" : "Who are you with?"
+    },
+    {
+      "prompt" : "What are you doing?"
+    },
+    {
+      "prompt" : "Are you working?"
+    },
+    {
+      "prompt" : "How did you sleep?"
+    },
+    {
+      "prompt" : "What are you wearing?"
+    },
+    {
+      "prompt" : "Did you do homework today?"
+    },
+    {
+      "prompt" : "Are you in a class?"
+    },
+    {
+      "prompt" : "How were relations with Katherine?",
+      "allowMultipleSelection" : 0
+    },
+    {
+      "prompt" : "Did you run or workout today?"
+    },
+    {
+      "prompt" : "How many minutes of sleep did you get?"
+    },
+    {
+      "prompt" : "How were relations with Katherine? (Number)"
+    },
+    {
+      "prompt" : "Have you had sex today?"
+    },
+    {
+      "prompt" : "What's your current mood?",
+      "allowMultipleSelection" : 1
+    },
+    {
+      "prompt" : "How many hours did you work today?"
+    },
+    {
+      "prompt" : "How tired are you?"
+    },
+    {
+      "prompt" : "Did you see Katherine today?"
+    }
+  ]
+}

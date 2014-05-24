@@ -1,5 +1,6 @@
 require 'oj'
 require 'hashie'
+require 'active_support'
 
 require 'reporter/version'
 require 'reporter/snapshot'

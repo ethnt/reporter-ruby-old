@@ -26,4 +26,5 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency 'oj', '~> 2.6.1'
   spec.add_dependency 'hashie', '~> 2.0.5'
+  spec.add_dependency 'activesupport', '~> 4.1.1'
 end

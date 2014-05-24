@@ -15,6 +15,9 @@ module Reporter
           options = [:cellular, :wifi, :none]
 
           result = options[value]
+        when 'date'
+          # If it's a BigDecimal, convert to float — that is the time since
+          # Jan. 1, 2001. Need to convert that to date.
         when 'draft'
           result = false
 
